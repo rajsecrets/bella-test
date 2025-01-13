@@ -1,0 +1,11 @@
+chainlit>=1.0.0
+aiohttp
+pillow
+pytesseract
+PyPDF2
+beautifulsoup4
+requests
+python-dotenv
+langchain
+langchain-community
+openai
